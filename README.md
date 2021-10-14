@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 * [All training camps for Dec 2019—Nov 2020](https://github.com/dlnnlsn/best_year_so_far_19-20)
 * [All training camps for Dec 2020—Nov 2021](https://github.com/dlnnlsn/actually_somewhat_mediocre_year_20-21)
 
-There is a repository for the 2021—2022 training camps that are currently private. These will be made public at the end of the olympiad season. (We obviously don't want students to be able to access the tests before they write them.)
+There is a repository for the 2021—2022 training camps that is currently private. It will be made public at the end of the olympiad season. (We obviously don't want students to be able to access the tests before they write them.)
