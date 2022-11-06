@@ -25,5 +25,6 @@ Here are some ideas to get you started:
 * [Super secret additional selection test for 2020 PAMO team](https://github.com/dlnnlsn/super_secret_pamo_test)
 * [All training camps for Dec 2019—Nov 2020](https://github.com/dlnnlsn/best_year_so_far_19-20)
 * [All training camps for Dec 2020—Nov 2021](https://github.com/dlnnlsn/actually_somewhat_mediocre_year_20-21)
+* [All training camps for Dec 2021-Nov 2022](https://github.com/dlnnlsn/the_years_just_keep_going_21-22)
 
-There is a repository for the 2021—2022 training camps that is currently private. It will be made public at the end of the olympiad season. (We obviously don't want students to be able to access the tests before they write them.)
+There is a repository for the 2022—2023 training camps that is currently private. It will be made public at the end of the olympiad season. (We obviously don't want students to be able to access the tests before they write them.)
