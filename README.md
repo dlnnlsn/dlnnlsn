@@ -27,3 +27,4 @@ Here are some ideas to get you started:
 * [All training camps for Dec 2020—Nov 2021](https://github.com/dlnnlsn/actually_somewhat_mediocre_year_20-21)
 * [All training camps for Dec 2021-Nov 2022](https://github.com/dlnnlsn/the_years_just_keep_going_21-22)
 * [All training camps for Dec 2022-Nov 2023](https://github.com/dlnnlsn/the_year_that_is_statistically_likely_to_be_better_than_the_previous_2_years_22-23)
+* [All training camps for Dec 2024-Nov 2025](https://github.com/Bakerbakura/SA_maths_camps_24-25)
